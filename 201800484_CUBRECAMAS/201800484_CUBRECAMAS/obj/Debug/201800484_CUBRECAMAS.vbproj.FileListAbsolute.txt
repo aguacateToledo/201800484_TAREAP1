@@ -1,0 +1,12 @@
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\bin\Debug\201800484_CUBRECAMAS.exe.config
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\bin\Debug\201800484_CUBRECAMAS.exe
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\bin\Debug\201800484_CUBRECAMAS.pdb
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\bin\Debug\201800484_CUBRECAMAS.xml
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\201800484_CUBRECAMAS.vbprojAssemblyReference.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\_201800484_CUBRECAMAS.Form1.resources
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\_201800484_CUBRECAMAS.Resources.resources
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\201800484_CUBRECAMAS.vbproj.GenerateResource.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\201800484_CUBRECAMAS.vbproj.CoreCompileInputs.cache
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\201800484_CUBRECAMAS.exe
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\201800484_CUBRECAMAS.xml
+C:\Users\Steven Sis\Desktop\All\Toledo\Rebecca\TareaPreparatoria\201800484_CUBRECAMAS\201800484_CUBRECAMAS\obj\Debug\201800484_CUBRECAMAS.pdb
